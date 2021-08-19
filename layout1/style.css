@@ -1,0 +1,15 @@
+.container {
+    background-color: rgb(245, 245, 227);
+}
+.A{
+    background-color: orangered; 
+}
+.B {
+    background-color: blue;
+}
+.C {
+    background-color: chartreuse;
+}
+div {
+    border: 2px solid #fff
+}
